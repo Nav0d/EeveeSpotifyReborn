@@ -72,7 +72,7 @@ class ProfileSettingsSectionHook: ClassHook<NSObject> {
             )
             .disclosureAccessoryView()
             
-            tableViewCell.textLabel?.text = "EeveeSpotify"
+            tableViewCell.textLabel?.text = "NvPySpotify"
             return tableViewCell
         }
 
